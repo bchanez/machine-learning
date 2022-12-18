@@ -14,7 +14,7 @@ plt.plot([1,2,3],[4,6,8]);
 plt.title("test",fontsize=20)
 plt.xlabel("x axis", fontsize=20)
 plt.ylabel("y axis", fontsize=20)
-plt.savefig("examplePlp.png")
+plt.savefig("examplePlp1.png")
 
 # example pd
 data = {
