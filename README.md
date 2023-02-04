@@ -1,5 +1,8 @@
 # machine-learning
 
+The goal is to play mario
+https://www.smbgames.be/super-mario-bros.php
+
 # build and run in container
 
 ```sh
@@ -28,4 +31,3 @@ docker stop <id>
 ```sh
 docker system prune -a
 ```
-
